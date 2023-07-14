@@ -12,6 +12,22 @@
 		36010E742A5625D0000C1AB3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36010E732A5625D0000C1AB3 /* Assets.xcassets */; };
 		36010E772A5625D0000C1AB3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36010E762A5625D0000C1AB3 /* Preview Assets.xcassets */; };
 		36010E972A5797B3000C1AB3 /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36010E962A5797B3000C1AB3 /* HomeScreen.swift */; };
+		36B722642A5CCAE800112F14 /* View1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36B722632A5CCAE800112F14 /* View1.swift */; };
+		36B722662A5CCAF800112F14 /* View2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36B722652A5CCAF800112F14 /* View2.swift */; };
+		36B722682A5CCB0E00112F14 /* View3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36B722672A5CCB0E00112F14 /* View3.swift */; };
+		36B7226C2A5CDB6200112F14 /* Main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36B7226B2A5CDB6200112F14 /* Main.swift */; };
+		36B7226E2A5CE20000112F14 /* ListScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36B7226D2A5CE20000112F14 /* ListScreen.swift */; };
+		36B722702A5F65C300112F14 /* View4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36B7226F2A5F65C300112F14 /* View4.swift */; };
+		36B722722A60B00400112F14 /* CreateListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36B722712A60B00400112F14 /* CreateListView.swift */; };
+		36B722762A60B47900112F14 /* CHATGPTView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36B722752A60B47900112F14 /* CHATGPTView.swift */; };
+		36B722782A60B61B00112F14 /* AccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36B722772A60B61B00112F14 /* AccountView.swift */; };
+		36B7227A2A60B79200112F14 /* BudgetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36B722792A60B79200112F14 /* BudgetView.swift */; };
+		36B7227C2A60BADD00112F14 /* Delivery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36B7227B2A60BADD00112F14 /* Delivery.swift */; };
+		36B7227E2A60BCB000112F14 /* Recipes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36B7227D2A60BCB000112F14 /* Recipes.swift */; };
+		36B722802A60C0D100112F14 /* Register.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36B7227F2A60C0D100112F14 /* Register.swift */; };
+		36B722822A60C76200112F14 /* Browse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36B722812A60C76200112F14 /* Browse.swift */; };
+		36B722842A60CFC100112F14 /* ExportLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36B722832A60CFC100112F14 /* ExportLists.swift */; };
+		36B722862A60CFD700112F14 /* ImportLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36B722852A60CFD700112F14 /* ImportLists.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +37,22 @@
 		36010E732A5625D0000C1AB3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		36010E762A5625D0000C1AB3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		36010E962A5797B3000C1AB3 /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
+		36B722632A5CCAE800112F14 /* View1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View1.swift; sourceTree = "<group>"; };
+		36B722652A5CCAF800112F14 /* View2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View2.swift; sourceTree = "<group>"; };
+		36B722672A5CCB0E00112F14 /* View3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View3.swift; sourceTree = "<group>"; };
+		36B7226B2A5CDB6200112F14 /* Main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Main.swift; sourceTree = "<group>"; };
+		36B7226D2A5CE20000112F14 /* ListScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListScreen.swift; sourceTree = "<group>"; };
+		36B7226F2A5F65C300112F14 /* View4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View4.swift; sourceTree = "<group>"; };
+		36B722712A60B00400112F14 /* CreateListView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateListView.swift; sourceTree = "<group>"; };
+		36B722752A60B47900112F14 /* CHATGPTView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHATGPTView.swift; sourceTree = "<group>"; };
+		36B722772A60B61B00112F14 /* AccountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountView.swift; sourceTree = "<group>"; };
+		36B722792A60B79200112F14 /* BudgetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BudgetView.swift; sourceTree = "<group>"; };
+		36B7227B2A60BADD00112F14 /* Delivery.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Delivery.swift; sourceTree = "<group>"; };
+		36B7227D2A60BCB000112F14 /* Recipes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Recipes.swift; sourceTree = "<group>"; };
+		36B7227F2A60C0D100112F14 /* Register.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Register.swift; sourceTree = "<group>"; };
+		36B722812A60C76200112F14 /* Browse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Browse.swift; sourceTree = "<group>"; };
+		36B722832A60CFC100112F14 /* ExportLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExportLists.swift; sourceTree = "<group>"; };
+		36B722852A60CFD700112F14 /* ImportLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImportLists.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,9 +87,25 @@
 			children = (
 				36010E6F2A5625CF000C1AB3 /* SmartShopperApp.swift */,
 				36010E712A5625CF000C1AB3 /* ContentView.swift */,
-				36010E732A5625D0000C1AB3 /* Assets.xcassets */,
-				36010E752A5625D0000C1AB3 /* Preview Content */,
+				36B7226B2A5CDB6200112F14 /* Main.swift */,
 				36010E962A5797B3000C1AB3 /* HomeScreen.swift */,
+				36B7226D2A5CE20000112F14 /* ListScreen.swift */,
+				36B722832A60CFC100112F14 /* ExportLists.swift */,
+				36B722852A60CFD700112F14 /* ImportLists.swift */,
+				36B722632A5CCAE800112F14 /* View1.swift */,
+				36B722652A5CCAF800112F14 /* View2.swift */,
+				36B722672A5CCB0E00112F14 /* View3.swift */,
+				36B7226F2A5F65C300112F14 /* View4.swift */,
+				36010E732A5625D0000C1AB3 /* Assets.xcassets */,
+				36B722712A60B00400112F14 /* CreateListView.swift */,
+				36B722752A60B47900112F14 /* CHATGPTView.swift */,
+				36B722792A60B79200112F14 /* BudgetView.swift */,
+				36B722772A60B61B00112F14 /* AccountView.swift */,
+				36B7227B2A60BADD00112F14 /* Delivery.swift */,
+				36B7227D2A60BCB000112F14 /* Recipes.swift */,
+				36B7227F2A60C0D100112F14 /* Register.swift */,
+				36B722812A60C76200112F14 /* Browse.swift */,
+				36010E752A5625D0000C1AB3 /* Preview Content */,
 			);
 			path = SmartShopper;
 			sourceTree = "<group>";
@@ -140,9 +188,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				36B7226C2A5CDB6200112F14 /* Main.swift in Sources */,
+				36B722822A60C76200112F14 /* Browse.swift in Sources */,
+				36B722862A60CFD700112F14 /* ImportLists.swift in Sources */,
+				36B722802A60C0D100112F14 /* Register.swift in Sources */,
 				36010E722A5625CF000C1AB3 /* ContentView.swift in Sources */,
+				36B722662A5CCAF800112F14 /* View2.swift in Sources */,
+				36B7227E2A60BCB000112F14 /* Recipes.swift in Sources */,
+				36B722762A60B47900112F14 /* CHATGPTView.swift in Sources */,
+				36B7227A2A60B79200112F14 /* BudgetView.swift in Sources */,
+				36B722782A60B61B00112F14 /* AccountView.swift in Sources */,
+				36B722702A5F65C300112F14 /* View4.swift in Sources */,
+				36B722682A5CCB0E00112F14 /* View3.swift in Sources */,
 				36010E702A5625CF000C1AB3 /* SmartShopperApp.swift in Sources */,
+				36B722722A60B00400112F14 /* CreateListView.swift in Sources */,
+				36B7226E2A5CE20000112F14 /* ListScreen.swift in Sources */,
 				36010E972A5797B3000C1AB3 /* HomeScreen.swift in Sources */,
+				36B7227C2A60BADD00112F14 /* Delivery.swift in Sources */,
+				36B722642A5CCAE800112F14 /* View1.swift in Sources */,
+				36B722842A60CFC100112F14 /* ExportLists.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
