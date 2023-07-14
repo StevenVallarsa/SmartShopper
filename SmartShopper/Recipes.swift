@@ -26,7 +26,7 @@ struct Recipes: View {
 //                    }
                     Spacer()
                     
-                    Text("RECIPIES")
+                    Text("RECIPES")
                         .font(.title)
                         .fontWeight(.bold)
                         .foregroundColor(Color("BrightGreen"))

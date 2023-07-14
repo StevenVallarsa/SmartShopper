@@ -74,7 +74,7 @@ struct HomeScreen: View {
                                 VStack {
                                     Image(systemName: "magnifyingglass").padding(1)
                                     Text("Discover")
-                                    Text("Recipies")
+                                    Text("Recipes")
                                 }.frame(width: 140, height: 140).background(Color("BrightGreen"))
                                     .cornerRadius(20)
                                     .font(.title)

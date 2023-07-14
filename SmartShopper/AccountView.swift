@@ -87,15 +87,34 @@ struct AccountView: View {
                         
                     }
                     
-                    Text("Order History")
-                        .padding()
-                        .foregroundColor(.white)
-                    Text("Payment Details")
-                        .padding()
-                        .foregroundColor(.white)
-                    Text("Submit")
-                        .padding()
-                        .foregroundColor(.white)
+                    VStack {
+                        Text("SUBMIT")
+                    }.frame(width: 140, height: 50).background(Color("BrightGreen"))
+                        .cornerRadius(20)
+                        .font(.headline)
+                        .fontWeight(.bold)
+                        .foregroundColor(Color("DarkPurple"))
+                        .kerning(3)
+                        .clipShape(Capsule())
+                        .padding(.bottom)
+                    VStack {
+                        Text("PAYMENTS")
+                    }.frame(width: 140, height: 50).background(Color("BrightGreen"))
+                        .cornerRadius(20)
+                        .font(.headline)
+                        .fontWeight(.bold)
+                        .foregroundColor(Color("DarkPurple"))
+                        .kerning(3)
+                        .clipShape(Capsule())
+                    VStack {
+                        Text("HISTORY")
+                    }.frame(width: 140, height: 50).background(Color("BrightGreen"))
+                        .cornerRadius(20)
+                        .font(.headline)
+                        .fontWeight(.bold)
+                        .foregroundColor(Color("DarkPurple"))
+                        .kerning(3)
+                        .clipShape(Capsule())
                     Spacer()
                 }
                 
